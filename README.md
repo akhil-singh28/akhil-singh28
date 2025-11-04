@@ -14,7 +14,6 @@
 </p>
 <br>
 <br>
-
 <div align="center">
   <h2>💻 Tech Stack</h2>
 
