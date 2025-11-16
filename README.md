@@ -45,7 +45,6 @@
   <img src="https://streak-stats.demolab.com?user=akhil-singh28&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=79C0FF&sideNums=58A6FF&dates=8B949E&sideLabels=79C0FF" width="50%" />  
 
   <br><br>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&langs_count=8" width="50%"/>  
 
 </div>  
