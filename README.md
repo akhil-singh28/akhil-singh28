@@ -48,4 +48,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&langs_count=8" width="50%"/>  
 
 </div>  
----
+
