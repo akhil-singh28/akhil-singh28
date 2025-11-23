@@ -17,7 +17,6 @@
   <h2>💻 Tech Stack</h2>
   
   <!-- skillicons.dev icons -->
-  
   <p>
     <img src="https://skillicons.dev/icons?i=python,java,c,react,nodejs,javascript,mysql,mongodb,sklearn,github,vscode,jupyter" />
   </p>
