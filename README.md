@@ -32,7 +32,6 @@
 <div align="center">
   <h2 style="font-size: 1.8em;">📊 GitHub Stats</h2>
 </div>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C3D1E5&icon_color=79C0FF" width="50%" />  
 
