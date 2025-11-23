@@ -1,7 +1,6 @@
 <div align="center">
   <h1 style="font-size: 3.5em;">✨ Akhil Pratap Singh ✨</h1>
 </div>
-
 <h2 style="font-size: 2.0em;">💫 About Me:</h2>
 <p style="font-size: 1.0em;">
 🔭 I’m currently learning <strong>Data Science</strong><br>
