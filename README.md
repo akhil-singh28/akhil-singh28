@@ -3,6 +3,7 @@
 </div>
 <h2 style="font-size: 2.0em;">💫 About Me:</h2>
 <p style="font-size: 1.0em;">
+  
 🔭 I’m currently learning <strong>Data Science</strong><br>
 🔥 Skilled in <strong>Python</strong>, <strong>Java (DSA)</strong>, <strong>NumPy</strong>, <strong>Pandas</strong>, <strong>Matplotlib</strong>, <strong>Power BI</strong><br>
 💕 I am looking to collaborate on Data Science and Machine Learning Projects<br>
