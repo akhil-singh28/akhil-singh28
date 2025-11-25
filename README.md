@@ -29,8 +29,8 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=akhil-singh28&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=akhil-singh28&theme=tokyonight&hide_border=true" width="48%" />
+<!-- <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=akhil-singh28&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=akhil-singh28&theme=tokyonight&hide_border=true" width="48%" /> -->
 <br><br>
 <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </div>
