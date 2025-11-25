@@ -47,18 +47,14 @@
 ## 📊 GitHub Stats
 <div align="center">
 
+### 📊 GitHub Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=tokyonight&hide_border=true" height="180px"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-singh28&theme=tokyonight&hide_border=true" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" height="200px"/>
 
 </div>
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=79C0FF&langs_count=8" width="48%" />
-
-</div>
-<div align="center">
   
 ### ⭐ If you like my work, consider giving a star to my repositories!
 
