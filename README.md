@@ -13,7 +13,6 @@
 🚀 Passionate about exploring datasets and uncovering hidden insights  
 🌱 Love solving real-world problems using **data-driven decision-making**  
 ⚡ Fun fact: I write better code after midnight — don’t ask why.
-
 ---
 
 ## 💻 Tech Stack
