@@ -13,7 +13,6 @@
 <br>
 ## 💻 Tech Stack
 <div align="center">
-
 ### 🚀 Languages & Tools  
 <img src="https://skillicons.dev/icons?i=python,java,c,react,nodejs,javascript,mysql,mongodb,sklearn,github,vscode,jupyter" />
 ### 📦 Libraries & Frameworks  
