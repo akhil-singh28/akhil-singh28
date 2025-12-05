@@ -9,7 +9,6 @@
 <h2>🚀 Languages & Tools</h2>
 
 </td>
-
 <td align="right" width="50%">
 
 <h2>📦 Libraries & Frameworks</h2>
