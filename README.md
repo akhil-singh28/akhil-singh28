@@ -2,6 +2,7 @@
   <h1 style="font-size: 3.5em;">✨ Akhil Pratap Singh ✨</h1>
 </div>
 <br>
+
 ## 💫 About Me
 🔭 I’m currently learning **Data Science**, **Power BI**, **Matplotlib** <br>
 🔥 Skilled in **Python**, **Java (DSA)**, **NumPy**, **Pandas** <br>
