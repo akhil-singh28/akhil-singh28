@@ -14,7 +14,6 @@
 
 ## 💻 Tech Stack
 <div align="center">
-
 <h2>🚀 Languages & Tools</h2> <br>
 <img src="https://skillicons.dev/icons?i=python,java,c,react,nodejs,javascript,mysql,mongodb,sklearn,github,vscode,jupyter" />
 
