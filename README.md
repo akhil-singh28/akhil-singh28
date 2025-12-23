@@ -23,17 +23,20 @@
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
 </div>
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Alt Style)
 <div align="center">
 
-<!-- Main stats side by side -->
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=akhil-singh28&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com?user=akhil-singh28&theme=tokyonight&hide_border=true" width="48%" />
+<!-- Profile stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=radical&hide_border=true" width="60%" />
 
 <br><br>
 
-<!-- Top languages centered below -->
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+<!-- Streak stats -->
+<img src="https://streak-stats.demolab.com?user=akhil-singh28&theme=radical&hide_border=true" width="60%" />
+
+<br><br>
+
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&theme=radical&hide_border=true" width="40%" />
 
 </div>
