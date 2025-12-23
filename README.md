@@ -32,8 +32,6 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-### ✨ AKHIL PRATAP SINGH — Stats ✨
-
 <!-- Simple text-colored stats (no animations, no flashy themes) -->
 <img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&hide_border=true&theme=default" width="55%" />
 
