@@ -22,8 +22,8 @@
 <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
 <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 
-
 </div>
+
 ## 📊 GitHub Stats
 <div align="center">
 
