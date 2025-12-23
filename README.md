@@ -30,7 +30,7 @@
 
 
 ## 📊 GitHub Stats
-<div align="center" style="background-color:#000000; padding:15px; border-radius:8px;">
+<div align="center" style="background-color:#000000; padding:10px; border-radius:10px;">
 
 ### ✨ AKHIL PRATAP SINGH — Stats ✨
 
