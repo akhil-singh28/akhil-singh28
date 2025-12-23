@@ -27,12 +27,7 @@
 
 </div>
 
----
 
----
-
-## 📊 GitHub Stats
----
 
 ## 📊 GitHub Stats
 <div align="center" style="background-color:#000000; padding:15px; border-radius:8px;">
