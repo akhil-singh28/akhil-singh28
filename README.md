@@ -24,16 +24,34 @@
 
 </div>
 
+## 💻 Tech Stats
+<div align="center">
+
+<h2>🚀 Languages & Tools</h2> <br>
+<img src="https://skillicons.dev/icons?i=python,java,c,react,nodejs,javascript,mysql,mongodb,sklearn,github,vscode,jupyter" />
+
+<h2>📦 Libraries & Frameworks</h2> <br>
+<img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+<img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 <div align="center">
 
-<!-- Main stats side by side -->
-<img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-singh28&theme=tokyonight&hide_border=true" width="48%" />
+### ✨ AKHIL PRATAP SINGH — Stats ✨
+
+<!-- Simple text-colored stats (no animations, no flashy themes) -->
+<img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&hide_border=true&theme=default" width="55%" />
 
 <br><br>
 
-<!-- Top languages centered below -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+<!-- Most used languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&hide_border=true&theme=default" width="40%" />
 
 </div>
+>
