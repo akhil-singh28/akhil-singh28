@@ -29,16 +29,18 @@
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
+---
 
-<!-- Simple text-colored stats (no animations, no flashy themes) -->
-<img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&hide_border=true&theme=default" width="55%" />
+## 📊 GitHub Stats
+<div align="center" style="background-color:#000000; padding:15px; border-radius:8px;">
+
+<!-- Simple text-colored stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&hide_border=true&theme=dark" width="55%" />
 
 <br><br>
 
 <!-- Most used languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&hide_border=true&theme=default" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&hide_border=true&theme=dark" width="40%" />
 
 </div>
->
+
