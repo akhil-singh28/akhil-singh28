@@ -40,4 +40,4 @@
 <br><br>
 
 <!-- Most used languages -->
-<div align="center" style="background-color:#000000; padding:20px; border:2px solid cyan; border-radius:10px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&hide_border=true&theme=dark" width="50%" /> </div>
+<div align="center" style="background-color:#000000; padding:20px; border:2px solid cyan; border-radius:5px;"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&hide_border=true&theme=dark" width="50%" /> </div>
