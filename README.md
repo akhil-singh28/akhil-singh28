@@ -35,8 +35,8 @@
 <td style="border: 2px solid cyan; border-radius:10px; padding:10px; background-color:#000000;">
 <img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&hide_border=true&theme=dark" width="400px" />
 <br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-singh28&theme=dark&hide_border=true" width="400px" />
-
+<!---<img src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-singh28&theme=dark&hide_border=true" width="400px" />---!>
+  
 </td>
 </tr>
 </table>
