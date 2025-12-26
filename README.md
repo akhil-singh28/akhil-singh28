@@ -14,7 +14,7 @@
 ## 💻 Tech Stack
 <div align="center">
 <h2>🚀 Languages & Tools</h2> <br>
-<img src="https://skillicons.dev/icons?i=html,css,python,java,c,react,nodejs,javascript,mongodb,sklearn,github,vscode,jupyter,git" />
+<img src="https://skillicons.dev/icons?i=html,css,python,java,c,react,nodejs,javascript,mongodb,sklearn,github,vscode,git" />
 
 <h2>📦 Libraries & Frameworks</h2> <br>
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
