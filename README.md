@@ -26,16 +26,17 @@
 
 </div>
 
+
 ## 📊 GitHub Stats
-<table align="center">
-<tr>
-<td style="border: 2px solid cyan; border-radius:10px; padding:10px; background-color:#000000;">
-<img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&hide_border=false&theme=dark" width="400px" />
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&hide_border=false&theme=dark" width="300px" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=dark&hide_border=false" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&theme=dark&hide_border=false" width="300"/>
+</p>
+
+---
 
 <!-- Most used languages -->
 ## 📊 Most Used Languages
