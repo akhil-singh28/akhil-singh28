@@ -29,15 +29,8 @@
 
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=dark&hide_border=false" width="400"/>
-</p>
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&theme=dark&hide_border=false" width="300"/>
-</p>
-
----
 
 <!-- Most used languages -->
 ## 📊 Most Used Languages
