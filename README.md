@@ -29,7 +29,13 @@
 
 
 ## 📊 GitHub Stats
+<div align="center">
+
 ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&theme=radical)
+
+</div>
 
 
 <!-- Most used languages -->
