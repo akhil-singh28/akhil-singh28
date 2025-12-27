@@ -36,7 +36,6 @@
 <td style="border: 2px solid cyan; border-radius:10px; padding:10px; background-color:#000000;">
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&hide_border=true&theme=dark" width="300px" />
-
 </td>
 </tr>
 </table>
