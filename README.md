@@ -31,9 +31,6 @@
 
 <!-- Most used languages -->
 ## 📊 Most Used Languages
-
-## 📊 Most Used Languages
-
 <table align="center">
   <tr>
     <td style="border: 2px solid cyan; border-radius:10px; padding:10px; background-color:#000000;">
