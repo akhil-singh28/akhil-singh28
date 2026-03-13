@@ -27,7 +27,6 @@
 
 </div>
 
-
 <!-- Most used languages -->
 ## 📊 Most Used Languages
 <table align="center">
@@ -41,4 +40,3 @@
     </td>
   </tr>
 </table>
-
