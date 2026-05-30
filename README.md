@@ -36,10 +36,6 @@
   />
 </p>
 
-
-
-## 📈 My Contributions
-
 <p align="center">
   <!-- Streak Stats -->
   <img 
@@ -48,16 +44,6 @@
     alt="GitHub Streak Stats"
   />
 </p>
-
-<p align="center">
-  <!-- Activity Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-singh28&theme=radical&hide_border=true&area=true&bg_color=0d1117&color=ff0000&line=00ff00&point=ffffff" 
-    width="800" 
-    alt="GitHub Activity Graph"
-  />
-</p>
-
 
 
 ## 🌟 Personal Touch
