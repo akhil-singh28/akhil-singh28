@@ -36,16 +36,6 @@
   />
 </p>
 
-<p align="center">
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-singh28&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D" 
-    width="500" 
-    alt="GitHub Streak Stats"
-  />
-</p>
-
-
 ## 🌟 Personal Touch
 
 <p align="center">
