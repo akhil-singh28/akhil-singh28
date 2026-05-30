@@ -26,16 +26,6 @@
 </div>
 </div>
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    width="500" 
-    alt="GitHub Stats"
-  />
-</p>
-
 
 ## 🔥 Contribution Streak
 
