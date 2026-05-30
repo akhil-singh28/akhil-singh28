@@ -37,13 +37,6 @@
   />
 </p>
 
-## 🎯 Contribution Highlights
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Repos-Showcasing-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Consistency-purple?style=for-the-badge&logo=github" />
-</p>
 
 ## 🌟 Personal Touch
 
