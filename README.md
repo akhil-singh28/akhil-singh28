@@ -30,11 +30,12 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-singh28&theme=react-dark&hide_border=true&area=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-singh28&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=00ffff&line=00ff00&point=ffffff" 
     width="800" 
     alt="GitHub Activity Graph"
   />
 </p>
+
 
 
 ## 🔥 Contribution Streak
