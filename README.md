@@ -26,8 +26,6 @@
 </div>
 </div>
 
-<!-- Most used languages -->
-
 ## 📊 Most Used Languages
 
 <p align="center">
