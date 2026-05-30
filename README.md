@@ -29,11 +29,31 @@
 ## 📈 My GitHub Contributions
 
 <p align="center">
+  <!-- Activity Graph -->
   <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-singh28&theme=tokyo-night&hide_border=true" 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-singh28&theme=react-dark&hide_border=true&area=true" 
     alt="GitHub Activity Graph"
   />
 </p>
+
+<p align="center">
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    width="450" 
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <!-- Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-singh28&theme=tokyonight&hide_border=true" 
+    width="450" 
+    alt="GitHub Streak Stats"
+  />
+</p>
+
 
 ## 📊 Most Used Languages
 
