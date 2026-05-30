@@ -45,6 +45,31 @@
   />
 </p>
 
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    width="500" 
+    alt="GitHub Stats"
+  />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-singh28&theme=tokyonight&hide_border=true" 
+    width="500" 
+    alt="GitHub Streak Stats"
+  />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/akhil-singh28/akhil-singh28/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
 
 ## 📊 Most Used Languages
 
