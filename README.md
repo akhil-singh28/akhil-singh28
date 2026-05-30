@@ -27,13 +27,15 @@
 </div>
 
 <!-- Most used languages -->
+
 ## 📊 Most Used Languages
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&theme=dark&hide_border=true&cache_seconds=60" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&theme=dark&hide_border=true" 
     width="400" 
     alt="Top Languages Card"
   />
 </p>
+
 
