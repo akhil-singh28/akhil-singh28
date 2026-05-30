@@ -26,6 +26,15 @@
 </div>
 </div>
 
+## 📈 My GitHub Contributions
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-singh28&theme=tokyo-night&hide_border=true" 
+    alt="GitHub Activity Graph"
+  />
+</p>
+
 ## 📊 Most Used Languages
 
 <p align="center">
