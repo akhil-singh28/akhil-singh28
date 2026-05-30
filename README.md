@@ -45,8 +45,8 @@
   <img src="https://img.shields.io/badge/Focus-Consistency-purple?style=for-the-badge&logo=github" />
 </p>
 
-## 🚀 Progress Bar (Fun)
+## 🌟 Personal Touch
 
 <p align="center">
-  <img src="https://progress-bar.dev/75/?title=Contribution%20Goal&width=500&color=blue&suffix=%25" />
+  <b>“Every commit is a step forward 🚀”</b>
 </p>
