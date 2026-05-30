@@ -28,14 +28,12 @@
 
 <!-- Most used languages -->
 ## 📊 Most Used Languages
-<table align="center">
-  <tr>
-    <td style="border: 2px solid cyan; border-radius:10px; padding:10px; background-color:#000000;">
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&theme=dark&hide_border=true&cache_seconds=60" 
-        width="300px" 
-        alt="Top Languages Card"
-      />
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&theme=dark&hide_border=true&cache_seconds=60" 
+    width="400" 
+    alt="Top Languages Card"
+  />
+</p>
+
