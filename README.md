@@ -26,25 +26,6 @@
 </div>
 </div>
 
-## 📈 My GitHub Contributions
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    width="450" 
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <!-- Streak Stats -->
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-singh28&theme=tokyonight&hide_border=true" 
-    width="450" 
-    alt="GitHub Streak Stats"
-  />
-</p>
-
 ## 📊 My GitHub Stats
 
 <p align="center">
@@ -65,20 +46,12 @@
   />
 </p>
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/akhil-singh28/akhil-singh28/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
-## 📊 Most Used Languages
+## 🌐 Activity Graph
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhil-singh28&layout=compact&theme=dark&hide_border=true" 
-    width="400" 
-    alt="Top Languages Card"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-singh28&theme=react-dark&hide_border=true&area=true" 
+    width="800" 
+    alt="GitHub Activity Graph"
   />
 </p>
-
-
