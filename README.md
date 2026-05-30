@@ -28,16 +28,6 @@
 
 ## 📈 My GitHub Contributions
 
-## 📈 Contribution Streak
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=akhil-singh28&theme=tokyonight&hide_border=true" 
-    width="500" 
-    alt="GitHub Streak Stats"
-  />
-</p>
-
   <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=akhil-singh28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
