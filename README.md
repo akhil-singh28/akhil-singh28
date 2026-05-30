@@ -37,12 +37,16 @@
   />
 </p>
 
-## 🌐 Activity Graph
+## 🎯 Contribution Highlights
 
 <p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=akhil-singh28&theme=react-dark&hide_border=true&area=true" 
-    width="800" 
-    alt="GitHub Activity Graph"
-  />
+  <img src="https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-Showcasing-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Consistency-purple?style=for-the-badge&logo=github" />
+</p>
+
+## 🚀 Progress Bar (Fun)
+
+<p align="center">
+  <img src="https://progress-bar.dev/75/?title=Contribution%20Goal&width=500&color=blue&suffix=%25" />
 </p>
