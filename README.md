@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 style="font-size: 3.5em;">✨ Akhil Pratap Singh ✨</h1>
+  <h1 style="font-size: 3.5em;">~✨ Akhil Pratap Singh ✨~</h1>
 </div>
 <br>
 
