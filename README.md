@@ -4,8 +4,8 @@
 <br>
 
 ## 💫 About Me
-🔭 I’m currently learning **Data Science**, **Machine Learning** <br>
-🔥 Skilled in **Python**, **Java (DSA)**, **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, **Power BI**<br>
+🔭 I’m currently learning **Machine Learning** <br>
+🔥 Skilled in **Data Science**,**Python**, **Java (DSA)**, **NumPy**, **Pandas**, **Matplotlib**, **Seaborn**, **Power BI**<br>
 🤝 Looking to collaborate on **Data Science & Machine Learning Projects**  
 🚀 Passionate about exploring datasets and uncovering hidden insights  
 🌱 Interested in solving real-world problems using **data-driven decision-making**  
